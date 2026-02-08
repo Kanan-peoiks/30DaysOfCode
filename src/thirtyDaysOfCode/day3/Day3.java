@@ -1,4 +1,4 @@
-package thirtyDaysofCode.day3;
+package thirtyDaysOfCode.day3;
 import java.util.*;
 
 public class Day3 {

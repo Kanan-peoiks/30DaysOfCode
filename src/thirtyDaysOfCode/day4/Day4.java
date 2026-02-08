@@ -1,11 +1,5 @@
-package thirtyDaysofCode.day4;
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
+package thirtyDaysOfCode.day4;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 public class Day4 {
     private static final Scanner scanner = new Scanner(System.in);

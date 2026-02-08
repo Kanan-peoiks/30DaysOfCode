@@ -1,9 +1,6 @@
-package thirtyDaysofCode.day2;
-import java.io.*;
+package thirtyDaysOfCode.day2;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+
 public class Day2 {
     public static void main(String[] args) {
         int i = 4;

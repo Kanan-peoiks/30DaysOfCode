@@ -1,6 +1,5 @@
-package thirtyDaysofCode.day5;
+package thirtyDaysOfCode.day5;
 
-import java.io.*;
 import java.util.*;
 
 public class Day5 {
